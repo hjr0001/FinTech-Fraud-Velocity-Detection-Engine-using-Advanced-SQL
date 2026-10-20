@@ -1,0 +1,7 @@
+fraud_detection.db
+*.db
+*.sqlite
+*.sqlite3
+Transactions.csv
+PS_*.csv
+.DS_Store
